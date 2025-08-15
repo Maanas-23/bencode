@@ -25,7 +25,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Maanas-23/bencode"
+	"github.com/maanas-23/bencode"
 )
 
 func main() {
