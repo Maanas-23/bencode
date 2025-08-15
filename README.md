@@ -7,7 +7,7 @@ Bencode supports four data types: strings, integers, lists, and dictionaries.
 ### Installation
 
 ```bash
-go get github.com/Maanas-23/bencode
+go get github.com/maanas-23/bencode
 ```
 
 ### Usage
@@ -59,7 +59,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Maanas-23/bencode"
+	"github.com/maanas-23/bencode"
 )
 
 func main() {
